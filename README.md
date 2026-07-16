@@ -5,6 +5,12 @@ This package replicates the reference screenshot (hero section: logo, pill nav,
 "Journey in to the wonderful world of shampoo" side copy) and adds a
 draggable Three.js 3D bottle in place of the static product photo.
 
+## Live Demo
+https://bolly-knock-out-flakes-landing.vercel.app/
+
+## YouTube Demo
+https://www.youtube.com/watch?v=PlNpEoWD3eg
+
 ## What's in this folder
 
 ```
